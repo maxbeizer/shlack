@@ -1,0 +1,16 @@
+.form-card {
+  min-width: 90%;
+}
+
+.google {
+  background-color: #333333;
+  color: white;
+}
+
+.google:hover {
+  background-color: #666666;
+}
+
+.c-btn:not(button):not([type="submit"]) {
+  outline: 2px solid white !important;
+}
