@@ -1,5 +1,9 @@
 # Shlack
 
+An Elixir/Phoenix learning exercise following:
+* https://github.com/ylankgz/shlack
+* https://youtu.be/X6Z-sDSJ3sE
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
